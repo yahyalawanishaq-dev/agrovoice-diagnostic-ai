@@ -1,6 +1,8 @@
 # 🐟 AgroVoice AI — Condition Diagnostic Engine
 
 AgroVoice is a practical diagnostic advisory engine designed to help smallholder farmers and aquaculture operators rapidly identify health risks in fish ponds and livestock pens.
+👉 **Live Web Demo:** https://agrovoice-diagnostic-ai-zzjc7w3bhr5qgm46yevyd.streamlit.app
+
 
 ---
 
