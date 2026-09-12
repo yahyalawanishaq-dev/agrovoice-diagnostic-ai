@@ -21,7 +21,7 @@ Rural aquaculture and livestock producers face sudden mortality events from rapi
 ## ⚙️ How to Run Locally
 
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yahyalawanishaq-dev/agrovoice-diagnostic-ai.git](https://github.com/yahyalawanishaq-dev/agrovoice-diagnostic-ai.git)
-   cd agrovoice-diagnostic-ai
-   
+ ````markdown
+```bash
+git clone [https://github.com/yahyalawanishaq-dev/agrovoice-diagnostic-ai.git](https://github.com/yahyalawanishaq-dev/agrovoice-diagnostic-ai.git)
+cd agrovoice-diagnostic-ai
